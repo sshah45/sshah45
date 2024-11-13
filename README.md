@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @sshah45
 - 👀 I’m interested in Web Development Technologies.
-- 🌱 I’m currently learning React, Redux and Node.js.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Node.js, Redux, etc...
+- 💞️ I’m looking to collaborate on React.js projects and front-end web applications.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-sshah45/sshah45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
