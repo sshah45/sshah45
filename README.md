@@ -1,4 +1,4 @@
-- #### Hi there 👋 I’m Sujay Shah ####
+ #### Hi there 👋 I’m Sujay Shah ####
 - 👀 I’m interested in Web Development Technologies.
 - 🌱 I’m currently learning Node.js, Redux, and Tailwind CSS.
 - 💞️ I’m looking to collaborate on building responsive and user-friendly interfaces using React.js and related technologies.
